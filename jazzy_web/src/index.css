@@ -1,0 +1,25 @@
+/* CSS HEX */
+/* --mimi-pink: #F4CFE0ff;
+--thistle: #DEBBD3ff;
+--sky-magenta: #C46CA9ff;
+--mountbatten-pink: #826976ff;
+--dark-purple: #40182Aff; */
+
+:root {
+  font-family: 'Inter', Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  background-color: #F4CFE0ff;
+  color: #40182Aff;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
